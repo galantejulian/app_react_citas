@@ -1,3 +1,5 @@
+![Screenshot](app_clima.png)
+
 app administrador de pacientes hecha con React.
 
 El formulario nos permite crear una cita. Contiene las validaciónes desde el Front. 
