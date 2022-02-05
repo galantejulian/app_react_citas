@@ -1,4 +1,4 @@
-![Screenshot](Captura de Pantalla 2022-02-05 a la(s) 17.04.32.png)
+![Screenshot](citas.png)
 
 app administrador de pacientes hecha con React.
 
